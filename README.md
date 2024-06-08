@@ -30,4 +30,3 @@ The SHapley Additive exPlanations (SHAP) method was used to interpret the models
 - `01_mode_development.ipynb`: Code for hyperparameter tuning using Bayesian optimization with stratified 5-repeated 5-fold cross-validation for all models.
 - `02_model_evaluation.ipynb`: Code for internal validation of the models, including performance metrics calculation like AUROC, AUPRC, and Brier score.
 - `03_model_interpretations.ipynb`: Code for interpreting the models using the SHAP method to provide attribution values for each predictor variable.
-- `04_deeproc.ipynb`: Code for conducting deep ROC analysis to calculate normalized group AUROC, mean sensitivity, and mean specificity.
